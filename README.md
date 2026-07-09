@@ -45,8 +45,7 @@ I have strong time-management skills, freelanced for over a year, completed a 4-
 
 <br/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmarEmadSaad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OmarEmadSaad&layout=compact&theme=tokyonight&hide_border=true&hide=php,blade,tex" alt="Top Languages" width="48%"/>
 </div>
 
 ---
