@@ -41,7 +41,7 @@ I have strong time-management skills, freelanced for over a year, completed a 4-
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=OmarEmadSaad&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarEmadSaad&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=OmarEmadSaad&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 
 <br/>
 
