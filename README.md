@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm **Omar Emad**, a **Full-Stack Software Engineer** in Cairo, Egypt, with about three years of building web and mobile apps — first as a freelancer, then on product teams. I work across **frontend** (React, Next.js, TypeScript), **mobile** (React Native, Expo) and **backend** (Node.js, Express, MongoDB).
+I'm **Omar Emad**, a **Software Engineer Full-Stack & Mobile Developer** in Cairo, Egypt, with about three years of building web and mobile apps — first as a freelancer, then on product teams. I work across **frontend** (React, Next.js, TypeScript), **mobile** (React Native, Expo) and **backend** (Node.js, Express, MongoDB).
 
 - 💼 **Software Engineer** at **Blitz Armada** (Jan 2026 – Present)
 - 🧑‍💻 **Front-end Developer** at **Dr.code**, Giza (Jun – Dec 2025) — 20+ responsive pages, REST APIs for a product with 5,000+ users, ~25% higher Lighthouse scores
